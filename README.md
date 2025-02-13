@@ -76,7 +76,7 @@ python local-qwen.py
 使用:
 ```bash
 # 设置 API Key (从 https://bailian.console.aliyun.com/ 获取)
-DASHSCOPE_API_KEY="your key"
+api_key="your key"
 
 python computer_use.py
 ```
@@ -93,6 +93,8 @@ python computer_use.py
 使用:
 ```bash
 # 配置 API Key (从 https://bailian.console.aliyun.com/ 获取)
+api_key="your key"
+
 python spatial_understanding_boat.py
 ```
 
